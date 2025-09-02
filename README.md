@@ -10,7 +10,7 @@ Atuo no ensino Superior e Tecnico, com foco em preparar estudantes para o mercad
 ## 📚 Áreas de Ensino e Pesquisa
 
 ### Desenvolvimento Web
-- [Fundamentos de Desenvolvimento Web]((https://github.com/Jessica-Arnaut/Fundamentos-de-Desenvolvimento-Web.git))  
+- [Fundamentos de Desenvolvimento Web](https://github.com/Jessica-Arnaut/Fundamentos-de-Desenvolvimento-Web.git)  
 - [Front-End: HTML, CSS e JavaScript](#)  
 - [Back-End com Node.js](#)  
 - [APIs RESTful](#)  
