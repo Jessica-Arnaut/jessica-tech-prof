@@ -16,7 +16,7 @@ Atuo no ensino Superior e Tecnico, com foco em preparar estudantes para o mercad
 
 ### Banco de Dados
 - [Banco de Dados Relacional (MySQL)](https://github.com/Jessica-Arnaut/Banco-de-Dados-Relacional-MySQL-.git)  
-- [Banco de Dados Não Relacional (MongoDB)](https://github.com/Jessica-Arnaut/Banco-de-Dados-N-o-Relacional-MongoDB-.git](https://github.com/Jessica-Arnaut/Banco-de-Dados-nao-Relacional-MongoDB-.git)  
+- [Banco de Dados Não Relacional (MongoDB)](https://github.com/Jessica-Arnaut/Banco-de-Dados-nao-Relacional-MongoDB-.git)  
 
 ### Lógica e Programação
 - [Lógica Computacional com Portugol](https://github.com/Jessica-Arnaut/Logica-Computacional.git)  
