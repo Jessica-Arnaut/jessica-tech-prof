@@ -3,7 +3,7 @@ Jéssica Arnaut — Professora de Tecnologia da Informação
 
 Bem-vindo(a) ao meu GitHub acadêmico!  
 Sou professora de Tecnologia com experiência em **Docência, Desenvolvimento de sistemas e Gestão em TI**.  
-Atuo no ensino Superior e Tecnico, com foco em preparar estudantes para o mercado de trabalho e para a inovação em tecnologia.
+Atuo no ensino Superior e Tecnico, com foco em preparar estudantes para o mundo do trabalho e para a inovação em tecnologia.
 
 ---
 
