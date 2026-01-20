@@ -11,9 +11,6 @@ Atuo no ensino Superior e Tecnico, com foco em preparar estudantes para o mundo 
 
 ### Desenvolvimento Web
 - [Fundamentos de Front-End: HTML, CSS e JavaScript](https://github.com/Jessica-Arnaut/Fundamentos-de-Desenvolvimento-Web.git)  
-- [Back-End com Node.js](https://github.com/Jessica-Arnaut/Back-End-com-Node.js.git)  
-- [APIs RESTful](https://github.com/Jessica-Arnaut/APIs-RESTful.git)  
-
 ### Banco de Dados
 - [Banco de Dados Relacional (MySQL)](https://github.com/Jessica-Arnaut/Banco-de-Dados-Relacional-MySQL-.git)  
 - [Banco de Dados Não Relacional (MongoDB)](https://github.com/Jessica-Arnaut/Banco-de-Dados-nao-Relacional-MongoDB-.git)  
